@@ -1,0 +1,8 @@
+.gradienteMenu {
+  background: rgb(11, 182, 204);
+  background: linear-gradient(
+    90deg,
+    rgb(19, 149, 93) 0%,
+    rgba(176, 195, 199, 1) 100%
+  );
+}
